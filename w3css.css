@@ -1,0 +1,285 @@
+
+.br{
+    font-size: 25px;
+    font-family: verdana, sans-serif;
+}
+.architecture{
+    position: absolute;
+    top:10px;
+    left:65px;
+    font-size:15px;
+    font-family:verdana, sans-serif;
+    
+}
+
+
+.nav a{
+    color:#171717;
+    text-decoration: none;
+    margin:10px;
+    font-family: Verdana, sans-serif;
+    font-size:25px;
+
+}
+.nav{
+    position:absolute;
+    top:30px;
+    right:30px;
+}
+
+.br2{
+    font-size: 50px;
+    font-family: verdana, sans-serif;
+    position:absolute;
+    top:450px;
+    left:600px;
+    color:white;
+    background-color: rgba(0, 0, 0, 0.5);
+
+}
+.architecture2{
+    font-size: 50px;
+    font-family: verdana, sans-serif;
+    position:absolute;
+    top:438px;
+    left:700px;
+    color:white;
+
+}
+.p1{
+    font-family: verdana, sans-serif;
+    font-size: 25px;
+
+}
+.houses{
+    text-align: center;
+}
+.houses img{
+   
+    margin:10px;
+}
+ #p2{
+    position: absolute;
+    left:23px;
+    top:952px;
+    font-size: 25px;
+    color:white;
+    background-color: black;
+    font-family: Verdana, sans-serif;
+   
+ }
+ #p3{
+    position: absolute;
+    top:952px;
+    left:398px;
+    font-size: 25px;
+    color:white;
+    background-color: black;
+    font-family: Verdana, sans-serif;
+ }
+ #p4{
+    position: absolute;
+    top:952px;
+    right:616px;
+    font-size: 25px;
+    color:white;
+    background-color: black;
+    font-family: Verdana, sans-serif;
+ }
+ #p5{
+    position: absolute;
+    top:952px;
+    right:229px;
+    font-size: 25px;
+    color:white;
+    background-color: black;
+    font-family: Verdana, sans-serif;
+ }
+ #p6{
+    position: absolute;
+    top:1208px;
+    left:23px;
+    font-size: 25px;
+    color:white;
+    background-color: black;
+    font-family: Verdana, sans-serif;
+ }
+ #p7{
+    position: absolute;
+    top:1208px;
+    left:398px;
+    font-size: 25px;
+    color:white;
+    background-color: black;
+    font-family: Verdana, sans-serif;
+ }
+ #p8{
+    position: absolute;
+    top:1208px;
+    right:616px;
+    font-size: 25px;
+    color:white;
+    background-color: black;
+    font-family: Verdana, sans-serif;
+ }
+ #p9{
+    position: absolute;
+    top:1208px;
+    right:229px;
+    font-size: 25px;
+    color:white;
+    background-color: black;
+    font-family: Verdana, sans-serif;
+ }
+ .class10{
+    font-family: Verdana, sans-serif;
+    font-size: 25px;
+ }
+ #p11{
+    font-family: Verdana, sans-serif;
+    font-size: 15px;
+ }
+ .persons{
+    text-align: center;
+ }
+ .persons img{
+    margin:10px;
+ }
+ #p12{
+    font-family:Verdana, sans-serif;
+    font-size: 15px;
+    position:relative;
+    left:17px;
+ }
+ #p13{ 
+    font-family:Verdana, sans-serif;
+    font-size: 15px;
+    position:absolute;
+    top:1970px;
+    left:398px;
+
+ }
+ #p14{
+    font-family:Verdana, sans-serif;
+    font-size: 15px;
+    position:absolute;
+    top:1970px;
+    right:396px;
+ }
+ #p15{
+    font-family:Verdana, sans-serif;
+    font-size: 15px;
+    top:1970px;
+    position:absolute;
+    right:29px;
+ }
+ .input1{
+    font-family:Verdana, sans-serif;
+    font-size: 15px;
+    background-color: #f1f1f1;
+    border-style: none;
+    position: relative;
+    width: 350px;
+    margin:5px;
+    padding:5px;
+
+
+
+
+ }
+ .input2{
+    font-family:Verdana, sans-serif;
+    font-size: 15px;
+    background-color: #f1f1f1;
+    border-style: none;
+    width: 350px;
+    margin:5px;
+    padding:5px;
+
+    
+
+
+ }
+ .input3{
+    font-family:Verdana, sans-serif;
+    font-size: 15px;
+    background-color: #f1f1f1;
+    border-style: none;
+    width: 350px;
+    margin:5px;
+    padding:5px;
+
+
+
+    
+ }
+ .input4{
+    font-family:Verdana, sans-serif;
+    font-size: 15px;
+    background-color: #f1f1f1;
+    border-style: none;
+    width: 350px;
+    margin:5px;
+    padding:5px;
+
+
+
+ }
+ .class16{
+    font-family:Verdana, sans-serif;
+    font-size: 25px;
+ }
+ #p17{
+    font-family:Verdana, sans-serif;
+    font-size: 25px;
+ }
+ .input5{
+    font-family:Verdana, sans-serif;
+    font-size: 15px;
+    width:1400px;
+    padding:5px;
+ 
+ }
+ .input6{
+    font-family:Verdana, sans-serif;
+    font-size: 15px;
+    width:1400px;
+    padding:5px;
+    
+ }
+ .input7{
+    font-family:Verdana, sans-serif;
+    font-size: 15px;
+    width:1400px;
+    padding:5px;
+}
+ .input8{
+    font-family:Verdana, sans-serif;
+    font-size: 15px;
+    width:1400px;
+    padding:5px;
+ }
+ #About {
+   font-size: 25px !important;
+   font-family: Verdana, sans-serif;
+}
+
+#contact {
+   font-size: 25px !important;
+   font-family: Verdana, sans-serif;
+}
+
+.head{
+   position:sticky;
+   top:5px;
+   border:1px solid gainsboro;
+   margin:4px;
+   background-color: whitesmoke;  
+
+}
+.foot{
+   border: 1px solid black;
+   background-color: black;
+   padding:10px;
+}
+ 
