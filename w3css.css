@@ -10,7 +10,7 @@
     font-size:15px;
     font-family:verdana, sans-serif;
     
-}
+} 
 
 
 .nav a{
@@ -19,7 +19,13 @@
     margin:10px;
     font-family: Verdana, sans-serif;
     font-size:25px;
-
+    }
+.nav a:hover{
+   background-color: #77797a;
+   color: #000;
+   transition: background-color 0.3s ease-in;
+   cursor: pointer;
+   border: none;
 }
 .nav{
     position:absolute;
@@ -28,7 +34,8 @@
 }
 
 .br2{
-    font-size: 50px;
+    font-size: 36px;
+    padding:8px 16px;
     font-family: verdana, sans-serif;
     position:absolute;
     top:450px;
@@ -38,12 +45,14 @@
 
 }
 .architecture2{
-    font-size: 50px;
-    font-family: verdana, sans-serif;
+    font-size: 36px;
+    padding:8px 16px;
+    font-family: "Segoe UI",Arial,sans-serif;
     position:absolute;
     top:438px;
     left:700px;
-    color:white;
+    color:#f1f1f1;
+    letter-spacing: 4px;
 
 }
 .p1{
@@ -61,7 +70,7 @@
  #p2{
     position: absolute;
     left:23px;
-    top:952px;
+    top:964px;
     font-size: 25px;
     color:white;
     background-color: black;
@@ -70,7 +79,7 @@
  }
  #p3{
     position: absolute;
-    top:952px;
+    top:964px;
     left:398px;
     font-size: 25px;
     color:white;
@@ -79,7 +88,7 @@
  }
  #p4{
     position: absolute;
-    top:952px;
+    top:964px;
     right:616px;
     font-size: 25px;
     color:white;
@@ -88,7 +97,7 @@
  }
  #p5{
     position: absolute;
-    top:952px;
+    top:964px;
     right:229px;
     font-size: 25px;
     color:white;
@@ -97,7 +106,7 @@
  }
  #p6{
     position: absolute;
-    top:1208px;
+    top:1220px;
     left:23px;
     font-size: 25px;
     color:white;
@@ -106,7 +115,7 @@
  }
  #p7{
     position: absolute;
-    top:1208px;
+    top:1220px;
     left:398px;
     font-size: 25px;
     color:white;
@@ -115,7 +124,7 @@
  }
  #p8{
     position: absolute;
-    top:1208px;
+    top:1220px;
     right:616px;
     font-size: 25px;
     color:white;
@@ -124,7 +133,7 @@
  }
  #p9{
     position: absolute;
-    top:1208px;
+    top:1220px;
     right:229px;
     font-size: 25px;
     color:white;
@@ -146,7 +155,7 @@
     margin:10px;
  }
  #p12{
-    font-family:Verdana, sans-serif;
+    font-family:Verdana, san s-serif;
     font-size: 15px;
     position:relative;
     left:17px;
@@ -180,7 +189,7 @@
     border-style: none;
     position: relative;
     width: 350px;
-    margin:5px;
+    margin:10px;
     padding:5px;
 
 
@@ -193,7 +202,7 @@
     background-color: #f1f1f1;
     border-style: none;
     width: 350px;
-    margin:5px;
+    margin:10px;
     padding:5px;
 
     
@@ -206,7 +215,7 @@
     background-color: #f1f1f1;
     border-style: none;
     width: 350px;
-    margin:5px;
+    margin:10px;
     padding:5px;
 
 
@@ -219,12 +228,19 @@
     background-color: #f1f1f1;
     border-style: none;
     width: 350px;
-    margin:5px;
+    margin:10px;
     padding:5px;
-
-
-
- }
+   }
+   .input1:hover,
+   .input2:hover,
+   .input3:hover,
+   .input4:hover {
+       background-color: #77797a;
+       color: #000;
+       transition: background-color 0.3s ease-in;
+       cursor: pointer;
+       border: none;
+   }
  .class16{
     font-family:Verdana, sans-serif;
     font-size: 25px;
@@ -269,17 +285,25 @@
    font-family: Verdana, sans-serif;
 }
 
-.head{
+.head{ 
    position:sticky;
    top:5px;
    border:1px solid gainsboro;
    margin:4px;
-   background-color: whitesmoke;  
+   background-color: white;  
 
 }
 .foot{
    border: 1px solid black;
    background-color: black;
    padding:10px;
+}
+.sendmessage:hover{
+   background-color: #77797a;
+   color: #000;
+   transition: background-color 0.3s ease-in;
+   cursor: pointer;
+   border: none;
+
 }
  
